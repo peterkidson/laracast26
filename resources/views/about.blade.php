@@ -7,10 +7,10 @@
 </head>
 
 <body>
-	<h3>Hello world</h3>
+	<h3>About Us</h3>
 
 	<div>
-		<a href="/about">About Us</a>
+		<a href="/">Home</a>
 	</div>
 </body>
 
