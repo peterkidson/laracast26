@@ -24,6 +24,8 @@
 			text-align: center;
 		}
 	</style>
+
+	@vite('resources/css/app.css')
 </head>
 
 <body>
